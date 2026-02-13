@@ -1,0 +1,82 @@
+{
+  "tajuk": "Kaifiyat Tahlil Lengkap",
+  "kandungan": [
+    {
+      "step": 1,
+      "nama": "Al-Fatihah Khusus",
+      "arab": "إِلَى حَضْرَةِ النَّبِيِّ الْمُصْطَفَى مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَعَلَى آلِهِ وَأَصْحَابِهِ وَذُرِّيَّاتِهِ وَأَهْلِ بَيْتِهِ الْكِرَامِ، شَيْءٌ لِلَّهِ لَهُمُ الْفَاتِحَةُ...",
+      "terjemahan": "Kepada yang dimuliakan Nabi pilihan, Muhammad SAW dan kepada ahli keluarganya...",
+      "instruksi": "Membaca Surah Al-Fatihah"
+    },
+    {
+      "step": 2,
+      "nama": "Surah Al-Ikhlas",
+      "arab": "قُلْ هُوَ اللَّهُ أَحَدٌ. اللَّهُ الصَّمَدُ. لَمْ يَلِدْ وَلَم. يُولَدْ. وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+      "terjemahan": "Katakanlah (wahai Muhammad): Dialah Allah Yang Maha Esa...",
+      "ulangan": 3
+    },
+    {
+      "step": 3,
+      "nama": "Tahlil & Takbir",
+      "arab": "لَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ",
+      "terjemahan": "Tiada Tuhan melainkan Allah, dan Allah Maha Besar",
+      "instruksi": "Dibaca setiap kali selesai surah lazim"
+    },
+    {
+      "step": 4,
+      "nama": "Surah Al-Falaq",
+      "arab": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ...",
+      "terjemahan": "Katakanlah: Aku berlindung kepada Tuhan yang menguasai subuh...",
+      "ulangan": 1
+    },
+    {
+      "step": 5,
+      "nama": "Surah An-Nas",
+      "arab": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ...",
+      "terjemahan": "Katakanlah: Aku berlindung kepada Tuhan sekalian manusia...",
+      "ulangan": 1
+    },
+    {
+      "step": 6,
+      "nama": "Permulaan Al-Baqarah",
+      "arab": "الم. ذَلِكَ الْكِتَابُ لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ...",
+      "terjemahan": "Alif, Laam, Miim. Kitab Al-Quran ini tidak ada sebarang keraguan padanya...",
+      "ulangan": 1
+    },
+    {
+      "step": 7,
+      "nama": "Ayat Kursi",
+      "arab": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
+      "terjemahan": "Allah, tiada Tuhan melainkan Dia, Yang Hidup Kekal...",
+      "ulangan": 1
+    },
+    {
+      "step": 8,
+      "nama": "Istighfar",
+      "arab": "أَسْتَغْفِرُ اللهَ الْعَظِيمَ",
+      "terjemahan": "Aku memohon ampun kepada Allah yang Maha Agung",
+      "ulangan": 3
+    },
+    {
+      "step": 9,
+      "nama": "Tahlil Utama",
+      "arab": "لَا إِلَهَ إِلَّا اللهُ",
+      "terjemahan": "Tiada Tuhan melainkan Allah",
+      "ulangan": 33
+    },
+    {
+      "step": 10,
+      "nama": "Selawat Nabi",
+      "arab": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ، اللَّهُمَّ صَلِّ عَلَيْهِ وَسَلِّمْ",
+      "terjemahan": "Ya Allah, limpahkanlah rahmat ke atas penghulu kami Muhammad...",
+      "ulangan": 3
+    },
+    {
+      "step": 11,
+      "nama": "Doa Tahlil",
+      "arab": "اَللَّهُمَّ تَقَبَّلْ وَأَوْصِلْ ثَوَابَ مَا قَرَأْنَاهُ مِنَ الْقُرْآنِ الْعَظِيْمِ...",
+      "terjemahan": "Ya Allah, terimalah dan sampaikanlah pahala bacaan kami daripada Al-Quran...",
+      "instruksi": "Penutup dan Doa Selamat"
+    }
+  ]
+}
