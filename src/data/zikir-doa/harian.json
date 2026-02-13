@@ -1,0 +1,81 @@
+{
+  "doa_harian": [
+    {
+      "id": "h1",
+      "tajuk": "Doa Bangun Tidur",
+      "arab": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "terjemahan": "Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami (tidur) dan kepada-Nya kami akan kembali.",
+      "rujukan": "HR. Bukhari & Muslim"
+    },
+    {
+      "id": "h2",
+      "tajuk": "Doa Masuk Tandas",
+      "arab": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+      "terjemahan": "Ya Allah, aku berlindung kepada-Mu daripada gangguan syaitan jantan dan syaitan betina.",
+      "rujukan": "HR. Bukhari"
+    },
+    {
+      "id": "h3",
+      "tajuk": "Doa Keluar Tandas",
+      "arab": "غُفْرَانَكَ. الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنِّي الْأَذَى وَعَافَانِي",
+      "terjemahan": "Aku memohon keampunan-Mu. Segala puji bagi Allah yang telah menghilangkan penyakit daripadaku dan menyembuhkanku.",
+      "rujukan": "HR. Abu Daud"
+    },
+    {
+      "id": "h4",
+      "tajuk": "Doa Memakai Pakaian",
+      "arab": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+      "terjemahan": "Segala puji bagi Allah yang telah memakaikan aku pakaian ini dan memberi rezeki kepadaku tanpa daya dan kekuatan daripadaku.",
+      "rujukan": "HR. Abu Daud"
+    },
+    {
+      "id": "h5",
+      "tajuk": "Doa Sebelum Makan",
+      "arab": "اللَّهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ. بِسْمِ اللَّهِ",
+      "terjemahan": "Ya Allah, berkatilah rezeki yang Engkau berikan kepada kami dan peliharalah kami daripada azab neraka. Dengan nama Allah.",
+      "rujukan": "HR. Ibnu Sunni"
+    },
+    {
+      "id": "h6",
+      "tajuk": "Doa Selepas Makan",
+      "arab": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+      "terjemahan": "Segala puji bagi Allah yang telah memberi kami makan dan minum, serta menjadikan kami orang-orang Muslim.",
+      "rujukan": "HR. Abu Daud"
+    },
+    {
+      "id": "h7",
+      "tajuk": "Doa Keluar Rumah",
+      "arab": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "terjemahan": "Dengan nama Allah, aku berserah diri kepada Allah, tiada daya dan kekuatan melainkan dengan pertolongan Allah.",
+      "rujukan": "HR. Abu Daud"
+    },
+    {
+      "id": "h8",
+      "tajuk": "Doa Menaiki Kenderaan",
+      "arab": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ. وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+      "terjemahan": "Maha Suci Allah yang telah menundukkan semua ini bagi kami padahal kami sebelumnya tidak mampu menguasainya. Dan sesungguhnya kami akan kembali kepada Tuhan kami.",
+      "rujukan": "Surah Az-Zukhruf: 13-14"
+    },
+    {
+      "id": "h9",
+      "tajuk": "Doa Masuk Masjid",
+      "arab": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+      "terjemahan": "Ya Allah, bukakanlah bagiku pintu-pintu rahmat-Mu.",
+      "rujukan": "HR. Muslim"
+    },
+    {
+      "id": "h10",
+      "tajuk": "Doa Keluar Masjid",
+      "arab": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+      "terjemahan": "Ya Allah, sesungguhnya aku memohon keutamaan daripada-Mu.",
+      "rujukan": "HR. Muslim"
+    },
+    {
+      "id": "h11",
+      "tajuk": "Doa Sebelum Tidur",
+      "arab": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "terjemahan": "Dengan nama-Mu ya Allah, aku mati dan aku hidup.",
+      "rujukan": "HR. Bukhari"
+    }
+  ]
+}
