@@ -1,0 +1,90 @@
+{
+  "solat_fardu": {
+    "subuh": {
+      "waktu": "Subuh",
+      "zikir_utama": [
+        {
+          "id": "s1",
+          "tajuk": "Istighfar & Doa Keselamatan",
+          "arab": "أَسْتَغْفِرُ اللهَ (٣x) اللَّهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ السَّلاَمُ تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَالإِكْرَامِ",
+          "terjemahan": "Aku memohon ampun kepada Allah (3x). Ya Allah, Engkau adalah penyelamat, dan daripada-Mu datangnya keselamatan...",
+          "ulangan": 1
+        },
+        {
+          "id": "s2",
+          "tajuk": "Zikir Selepas Subuh & Maghrib",
+          "arab": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "terjemahan": "Tiada Tuhan melainkan Allah yang Maha Esa, tiada sekutu bagi-Nya...",
+          "ulangan": 10
+        }
+      ],
+      "doa_khusus": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلاً مُتَقَبَّلاً"
+    },
+    "zohor": {
+      "waktu": "Zohor",
+      "zikir_utama": [
+        {
+          "id": "z1",
+          "tajuk": "Tasbih, Tahmid, Takbir",
+          "arab": "سُبْحَانَ اللهِ (٣٣x) الْحَمْدُ لِلَّهِ (٣٣x) اللهُ أَكْبَرُ (٣٣x)",
+          "terjemahan": "Maha Suci Allah, Segala Puji bagi Allah, Allah Maha Besar.",
+          "ulangan": 33
+        }
+      ],
+      "doa_khusus": "Doa memohon keberkatan waktu siang dan kemudahan urusan."
+    },
+    "asar": {
+      "waktu": "Asar",
+      "zikir_utama": [
+        {
+          "id": "a1",
+          "tajuk": "Ayat Kursi",
+          "arab": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
+          "terjemahan": "Allah, tiada Tuhan melainkan Dia, yang Hidup Kekal...",
+          "ulangan": 1
+        }
+      ],
+      "doa_khusus": "Doa memohon ketetapan iman dan perlindungan daripada azab kubur."
+    },
+    "maghrib": {
+      "waktu": "Maghrib",
+      "zikir_utama": [
+        {
+          "id": "m1",
+          "tajuk": "Perlindungan Neraka",
+          "arab": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+          "terjemahan": "Ya Allah, lindungilah aku daripada api neraka.",
+          "ulangan": 7
+        },
+        {
+          "id": "m2",
+          "tajuk": "Zikir Tauhid (10x)",
+          "arab": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ...",
+          "terjemahan": "Tiada Tuhan melainkan Allah...",
+          "ulangan": 10
+        }
+      ],
+      "doa_khusus": "Doa memohon husnul khatimah dan keampunan ibu bapa."
+    },
+    "isyak": {
+      "waktu": "Isyak",
+      "zikir_utama": [
+        {
+          "id": "i1",
+          "tajuk": "Zikir Penutup Malam",
+          "arab": "سُبْحَانَ المَلِكِ القُدُّوسِ",
+          "terjemahan": "Maha Suci Allah, Raja yang Maha Suci.",
+          "ulangan": 3
+        }
+      ],
+      "doa_khusus": "Doa sebelum tidur dan perlindungan sepanjang malam."
+    }
+  },
+  "zikir_umum_selepas_solat": [
+    {
+      "id": "gen1",
+      "tajuk": "Membaca Surah Al-Ikhlas, Al-Falaq, An-Nas",
+      "keterangan": "Dibaca sekali selepas setiap solat fardu, kecuali Subuh dan Maghrib (3 kali)."
+    }
+  ]
+}
