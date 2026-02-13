@@ -1,0 +1,81 @@
+{
+  "surah_pilihan": [
+    {
+      "id": "p1",
+      "nama": "Al-Kahfi (10 Ayat Awal)",
+      "surah_no": 18,
+      "ayat_range": "1-10",
+      "fadhilat": "Perlindungan daripada fitnah Dajjal."
+    },
+    {
+      "id": "p2",
+      "nama": "As-Sajadah",
+      "surah_no": 32,
+      "ayat_range": "full",
+      "fadhilat": "Amalan sebelum tidur dan solat Subuh Jumaat."
+    },
+    {
+      "id": "p3",
+      "nama": "Yaasin",
+      "surah_no": 36,
+      "ayat_range": "full",
+      "fadhilat": "Jantung Al-Quran, dibaca untuk hajat dan keberkatan."
+    },
+    {
+      "id": "p4",
+      "nama": "Ar-Rahmaan",
+      "surah_no": 55,
+      "ayat_range": "full",
+      "fadhilat": "Mengingatkan tentang nikmat-nikmat Allah."
+    },
+    {
+      "id": "p5",
+      "nama": "Al-Waqi'ah",
+      "surah_no": 56,
+      "ayat_range": "full",
+      "fadhilat": "Murah rezeki dan menjauhkan kefakiran."
+    },
+    {
+      "id": "p6",
+      "nama": "Al-Mulk",
+      "surah_no": 67,
+      "ayat_range": "full",
+      "fadhilat": "Penyelamat daripada azab kubur."
+    },
+    {
+      "id": "p7",
+      "nama": "Al-Insan",
+      "surah_no": 76,
+      "ayat_range": "full",
+      "fadhilat": "Sering dibaca bersama As-Sajadah pada Subuh Jumaat."
+    },
+    {
+      "id": "p8",
+      "nama": "Al-Kaafirun",
+      "surah_no": 109,
+      "ayat_range": "full",
+      "fadhilat": "Pelepasan daripada syirik."
+    },
+    {
+      "id": "p9",
+      "nama": "Al-Ikhlas",
+      "surah_no": 112,
+      "ayat_range": "full",
+      "fadhilat": "Ganjaran seumpama membaca 1/3 Al-Quran."
+    },
+    {
+      "id": "p10",
+      "nama": "Al-Falaq",
+      "surah_no": 113,
+      "ayat_range": "full",
+      "fadhilat": "Perlindungan daripada kejahatan makhluk."
+    },
+    {
+      "id": "p11",
+      "nama": "An-Naas",
+      "surah_no": 114,
+      "ayat_range": "full",
+      "fadhilat": "Perlindungan daripada was-was syaitan."
+    }
+  ]
+}
