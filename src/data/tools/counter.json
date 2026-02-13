@@ -1,0 +1,28 @@
+{
+  "counters": [
+    {
+      "id": "tasbih",
+      "name": "Subhanallah",
+      "limit": 999,
+      "step": 1
+    },
+    {
+      "id": "tahmid",
+      "name": "Alhamdulillah",
+      "limit": 999,
+      "step": 1
+    },
+    {
+      "id": "takbir",
+      "name": "Allahu Akbar",
+      "limit": 999,
+      "step": 1
+    },
+    {
+      "id": "tahlil",
+      "name": "La ilaha illallah",
+      "limit": 999,
+      "step": 1
+    }
+  ]
+}
